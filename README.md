@@ -1,6 +1,8 @@
 # VeriFact: PDF Fact-Checker
 
-VeriFact is a "truth layer" for marketing content. Upload a PDF and it:
+**Catch outdated stats and made-up numbers before your audience does.** Built for Cog Culture, Gurugram.
+
+Upload any PDF and VeriFact:
 
 1. **Extracts** specific, checkable claims (statistics, dates, financial and technical figures).
 2. **Verifies** each claim against the live web.
